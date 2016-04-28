@@ -1,0 +1,3 @@
+[submodule "watchmen"]
+	path = watchmen
+	url = https://github.com/Minizarbi/watchmen.git
