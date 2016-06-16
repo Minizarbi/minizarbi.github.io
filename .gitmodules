@@ -1,3 +1,6 @@
 [submodule "watchmen"]
 	path = watchmen
 	url = https://github.com/Minizarbi/watchmen.git
+[submodule "tokens_and_rails"]
+	path = tokens_and_rails
+	url = https://github.com/Minizarbi/tokens_and_rails
