@@ -1,2 +1,2 @@
-# minizarbi.github.io
+# alagane.github.io
 Site for everything
